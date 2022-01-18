@@ -13,8 +13,11 @@ training_INCART_Final.ipynb
 
 This code loads, pre-processes, and visualizes the segmented INCART data set created by processing_Final.ipynb. It then builds the deep convolutional neural network classifier, and trains the model on the data. 
 
-training-mit-ptbdb-final.ipynb
+training-ptbd.ypynb
+This code builds the deep neural network classifier, and traina the model of the PTB Diagnostic data set.
 
-This code loads and visualizes the pre-segmented MIT-BIH arrhythmia data set and PTB Diagnostic database. It then loads pre-trained models (trained on these datasets) and then evaluates their performance using various metrics.
+predicting-mit-ptbdb-final.ipynb
+
+This code loads and visualizes the pre-segmented MIT-BIH arrhythmia data set and PTB Diagnostic database. It then loads pre-trained models and evaluates their performance using various metrics.
 
 
