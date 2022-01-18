@@ -15,6 +15,6 @@ This code loads, pre-processes, and visualizes the segmented INCART data set cre
 
 training-mit-ptbdb-final.ipynb
 
-This code loads and visualizes the pre-segmented MIT-BIH arrhythmia data set and PTB Diagnostic database. It loads pre-trained CNN models (trained on these datasets) and then evaluates their performance using various metrics.
+This code loads and visualizes the pre-segmented MIT-BIH arrhythmia data set and PTB Diagnostic database. It then loads pre-trained models (trained on these datasets) and then evaluates their performance using various metrics.
 
 
